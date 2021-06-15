@@ -34,7 +34,7 @@ API token.
 Observations successfully retrieved.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {
     "name": "Cake's name",
     "recipe": "Cake's recipe name",
@@ -48,13 +48,11 @@ Observations successfully retrieved.
 Could not find observations matching this query.
 {% endapi-method-response-example-description %}
 
-```
+```text
 {    "message": "Ain't no cake like that."}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
